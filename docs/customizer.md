@@ -21,11 +21,22 @@
 > In this section you can configure all the basic site identity options like Main Logo, Footer Logo, Site Title, etc. 
 
 #### Sections
+------------------
 
 * Logo
 * Logo alternate
 * Footer logo
 * Footer logo alternate
+* Primary Brand Color
+* Site Title
+* Tagline
+* Phone Number
+* Contact Email
+* Company Address
+* Company Map Address
+* Hours of Operation
+* Site icon (Favicon)
+
 
 
 
@@ -33,12 +44,20 @@ Head to `Appearance -> Customize` and then choose the `Site Identity` Menu.
 
 Here you have the ability to change the Main logo which is used at the header of the site, Footer logo that is used at the footer of the site, Site Title and Tag line which are used for general SEO purposes, Footer copyrights which are placed at the footer socket of the site and the Site icon which is used as a favicon on the browser tab.
 
-The images format can be pretty much everything from jpg, jpeg, png, svg and gif but it is always better to use SVG format because they leave very small footprint in terms of byte size on the site. Other good alternative is PNG because it provides the ability for logos with transparency so they can be used in many different backgrounds other than white.
+The images format can be pretty much anything from jpg, jpeg, png, svg and gif but it is always better to use SVG format because they leave very small footprint in terms of byte size on the site. Other good alternative is PNG because it provides the ability for logos with transparency so they can be used in many different backgrounds other than white.
 
-For the Site Title and Tagline, you can use pretty much everything but you still need to consider meaningful content that will help you boost your SEO.
+For the Site Title and Tagline, you can use pretty much anything but you still need to consider meaningful content that will help you boost your SEO.
 
 The Site icon can be either a GIF, PNG OR SVG and needs to be at least 512x512 px in size for pixel based image formats like GIF or PNG. SVG doesn't need any specific pixels as it is vector based format.
-Of course you can use smaller resolution images like 128x128 or even 64x64 but this will make the logo more blurry and less high resolution for retina screens. 
+Of course you can use smaller resolution images like 128x128 or even 64x64 but this will make the logo more blurry and less high resolution for retina screens.
+
+The `Logo` and `Logo alternate` are used in the header for both normal and stuck version of header.
+
+The `Contact Email` is used in the top header bar
+
+The `Phone Number`, `Contact Email` and `Hours of Operation` are used at the callout block contact modal below the Gravity form. The `Phone Number` also appears the the top header bar as well.
+
+The `Company Address` and `Company Map Address` are not used anywhere for now but it is an addition in case we need these info in the future.  
 
 
 
