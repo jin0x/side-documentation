@@ -19,7 +19,6 @@ Here is the list of all blocks that are currently registered in the site:
 * Media element map
 * Press block
 * Section head
-* Selling slider
 * Stat block
 * Testimonials large
 * Testimonials small
@@ -167,39 +166,58 @@ The options that this block includes are the following ones:
 
 
 
-#### Agent Details Bar
+#### Media Element Map
 ------------------------
 
+This block is exactly the same like the Media Element but instead of showing an image, it shows a map in place.
+There is an additional field in this element which is an address field that utilizes Google maps API behind the scenes.
+
+
+#### Press
+------------------------
+This block is used to show the Press block shown below:
+
+<iframe src="https://share.getcloudapp.com/bLuGOnL1?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+This block consists of the following fields:
+
+* Items - this is a relationship field that queries the Posts.
+* CTA - the button of the block which includes a link, text and a link target.
+* Has Title - This is a toggle field which is used to whether show or hide a section title above the press block
+* Section title - the section title of the block that is shown above the press block
+* Title alignment - the alignment of the section title. It can be left, center or right 
+
+
+#### Stat Block
+------------------------
+This block is used to show the Stat block shown below:
+
+<iframe src="https://share.getcloudapp.com/llu4gGj4?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+This block contains the following custom fields:
+
+* Has title - Whether the stat block has a section title above the stat bloc items
+* Section title - the section title of the block that is shown above the stat block
+* Title alignment - the alignment of the section title. It can be left, center or right
+* Items - it is a repeater field that includes sub fields inside it and there is a limit of 3 items per block
+* Text - this is the subfield inside the items field and is used to show the title of the stat block
+* Number - this is the subfield inside the items field and is used to show the number of the stat block
+
+Please note that the numbers animation comes programmatically and the numbers are starting to animate when the block is in viewport.  
+
 
 #### Agent Details Bar
 ------------------------
+This block is used to show the Press block shown below:
 
 
 #### Agent Details Bar
 ------------------------
+This block is used to show the Press block shown below:
 
-
-#### Agent Details Bar
-------------------------
 
 
 #### Agent Details Bar
 ------------------------
+This block is used to show the Press block shown below:
 
-#### Agent Details Bar
-------------------------
-
-#### Agent Details Bar
-------------------------
-
-#### Agent Details Bar
-------------------------
-
-#### Agent Details Bar
-------------------------
-
-#### Agent Details Bar
-------------------------
-
-#### Agent Details Bar
-------------------------
