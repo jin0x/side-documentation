@@ -90,12 +90,27 @@ It is a more simplified version of callout blocks and consists of the following 
 * Button Style - This is a dropdown field which contains 4 different options (solid primary, solid secondary, stroke black and stroke white) where stroke white is the default value
 
 
-#### Agent Details Bar
+#### Featured Listings
 ------------------------
 
+This block is used to show the Featured Listings block shown below:
 
-#### Agent Details Bar
+<iframe src="https://share.getcloudapp.com/NQuv4097?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+This block doesn't have any fields because all options exist inside `Theme Settings -> Featured Listings`
+
+
+#### Headshots
 ------------------------
+
+This block is used to show the Headshots block shown below:
+
+<iframe src="https://share.getcloudapp.com/d5ueyq5W?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+This block consists of 2 fields:
+
+* Agent - this is a relationship field that queries the Members CPT and you can choose between different members that you want to show inside the headshots block. You have the ability to add, remove or order the different members
+* Has Slider - this option is a toggle field which give you the ability to show the headshots block as a slider carousel instead of a grid.
 
 
 #### Agent Details Bar
