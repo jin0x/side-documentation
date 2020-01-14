@@ -113,8 +113,23 @@ This block consists of 2 fields:
 * Has Slider - this option is a toggle field which give you the ability to show the headshots block as a slider carousel instead of a grid.
 
 
-#### Agent Details Bar
+#### List Slider
 ------------------------
+
+This block is used to show the List Slider block shown below:
+
+<iframe src="https://share.getcloudapp.com/2Nur6Ogn?embed=true" width="250" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+This block consists of 1 main field and another 3 sub fields:
+
+* Items - This is a repeater field that includes 3 sub fields inside it. You can add up to 7 different fields and you have the ability to add, remove or re-order these items
+* Head - The head title that is used on both the list slider nav and list slide body
+* Sub - The sub title that is used inside the list slide body below the head title
+* Sub - The body text that is used inside the list slide body below the sub title
+
+Please note that the numbering comes dynamically so you don't have to add those number items manually. Also the numbers are inline SVGs which means that once we change the primary branding color, these numbers change as well.
+ 
+ 
 
 
 #### Agent Details Bar
