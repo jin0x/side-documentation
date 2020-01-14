@@ -1,3 +1,3 @@
-# Headline
+# Main Page
 
-> An awesome project.
+> This is the documentation for the Side project
