@@ -53,6 +53,8 @@ Of course you can use smaller resolution images like 128x128 or even 64x64 but t
 
 The `Logo` and `Logo alternate` are used in the header for both normal and stuck version of header.
 
+The `Footer Logo` and `Footer Logo secondary` are the ones that shown at the top section of the footer side by side.
+
 The `Contact Email` is used in the top header bar
 
 The `Phone Number`, `Contact Email` and `Hours of Operation` are used at the callout block contact modal below the Gravity form. The `Phone Number` also appears the the top header bar as well.
