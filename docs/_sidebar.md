@@ -3,7 +3,7 @@
 * [Main page](/)
 * [Customizer Options](customizer.md)
 * [Theme Settings](themesettings.md)
-* [Past Sales](pastsales.md)
+* [Custom Post Types](posttypes.md)
 * [Pocket Listings](pocketlistings.md)
 * [Active Listings](activelistings.md)
 * [Blocks](blocks.md)

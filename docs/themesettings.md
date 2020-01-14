@@ -28,11 +28,12 @@ For the featured listings that are used by the Featured listings Block, there ar
 
 There are these different cases here on where the data for the featured listings will come from:
 
-* 1A : data based on pocket listings -  data are relationships from the listing custom post type and you can manually choose up to 5 
-* 1B : data based on individual MLS ID - data are coming through the individual MLS ID number and market and this field is a repeater which means that you can use up to 5 different MLS ID numbers and markets
+* 1a : data based on pocket listings -  data are relationships from the listing custom post type and you can manually choose up to 5 
+* 1b : data based on individual MLS ID - data are coming through the individual MLS ID number and market and this field is a repeater which means that you can use up to 5 different MLS ID numbers and markets
 * 2 : data based on primary agent ID and their associated markets - data are coming from the selected agent DRE number. If the DRE number contains listings, then these will be fetched into the featured listings 
 * 3 : data based on shortcode - data are coming from the shortcode provided inside the WYSIWYG editor.
 
 
 Please note that the default max listings shown inside the featured listings block is 5 and you have the ability to change that number through the `max listings` field to a lower number. Also note that 5 is the max number that we can use in both occasions and if any of the first data sources allocate all available slots, then all the other data sources will be disregarded.
  
+ Has mortgage calculator is used as an option to control on whether to show or hide Mortgage calculator inside listing details page.
