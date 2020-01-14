@@ -65,7 +65,7 @@ The `Company Address` and `Company Map Address` are not used anywhere for now bu
 
 
 
-### Menus
+#### Menus
 -------------------
 
 Here you can set your different menus that are used across the site. Currently we use 4 different menus: 
@@ -86,7 +86,7 @@ Here you can find some useful docs on how to manage your WordPress Menus:
 
  
 
-### General Settings
+#### General Settings
 --------------------
 
 This sub-menu is used to store all General settings of the site. Currently we only have one option but it can be further extended in the future if we wish to add more items.
@@ -98,7 +98,7 @@ If you want to test this option head to `Careers page` and choose one open posit
 If you are not planning to change the careers page, then it is recommended to leave this option intact.
 
 
-### Widgets
+#### Widgets
 --------------------
 
 Widgets are sections across the site where you can add different Widgets to make the site more dynamic.
@@ -125,41 +125,48 @@ Here you can find some useful docs on how to manage your WordPress Widgets:
 * https://www.youtube.com/watch?v=zx258_5Vv9Y
 
 
-### Contact Details
---------------------
-
-This section holds all the company details that are used across the site and on different sections like the `Contact` page.
-
-Options that you can modify/configure are the following ones:
-
-* Company Name
-* Address
-* State
-* Phone Number
-* Secondary Phone Number
-* Email Address
-* Map
-
-
-More of these items are pretty self-explanatory but some of them are not.
-For example, the Phone Number secondary is used in the contact page to populate the second phone number `Phone: 855-IMI-POGO (855.464.7646)` 
-
-And the map is used to show the map at the bottom of the same page. If you want to change the map, head to `https://www.google.com/maps`, type your address and then press the `Share` button. After this option choose `Embed a map` instead of the first option and copy the code that is provided by Google maps over to the respective field inside WordPress Customizer. 
-
-More info about the Contact page at the respective section.
- 
-
-Here you can find some useful docs on how to manage your Map:
-
-* https://embedgooglemaps.com/en/how-to-embed-google-maps-into-your-website/
-* https://support.google.com/maps/answer/144361?co=GENIE.Platform%3DDesktop&hl=en
-
-
-
 ### Homepage Settings
 ---------------------
 
 The only option inside this page is to set which page will be served as the Homepage. Currently it is set to the Homepage but if you decide to create a new homepage in the future and set this new page as your Homepage, just head to this section and choose the new page from the dropdown.
+
+
+### Footer Options
+-----------------
+
+Two options exist on this submenu:
+
+* Copyright
+* Disclaimer
+
+
+Both options can be seen at the footer section, one side by side with the menu item and one below it.
+Footer disclaimer though has been softly removed from the footer for now but the Customizer option is still there when you will need it.
+
+
+
+### Social Media Icons
+----------------------
+
+
+In this section you can set your social media accounts. The only option needed for every social network is the link to your official page.
+The social media networks supported are the following ones:
+
+* Facebook
+* Twitter
+* Instagram
+* Linked in
+* Youtube
+* Flickr
+* Vimeo
+* Tumblr
+* Dribble
+* RSS
+
+
+If you wish to add more social networks, this must be done programmatically as an additional request after hand off of the project.
+Please note that there is a checkbox on this section named `Show Social Media Icons` which means that even if you have your social media network links saved, these will only be visible at the footer of the site and at the top header bar if you have this option checked. 
+
 
 
 
@@ -188,23 +195,11 @@ Here you can find some useful docs on how to manage your script tags:
 * https://www.facebook.com/business/help/952192354843755
 
 
+### Typography
+--------------------
 
-
-### Social Media Icons
-----------------------
-
-
-In this section you can set your social media accounts. The only option needed for every social network is the link to your official page.
-The social media networks supported are the following ones:
-
-* Facebook
-* Twitter
-* Instagram
-* Linked in
-* Youtube
-
-If you wish to add more social networks, this must be done programmatically as an additional request after hand off of the project.
-Please note that there is a checkbox on this section named `Show Social Media Icons` which means that even if you have your social media network links saved, these will only be visible at the footer of the site if you have this option checked. 
+This section is used to change the default font used by Side in favor of some of the most popular Google fonts. Currently there are more than 30 fonts available in this dropdown and you can add more if you like programmatically.
+Please note that even if you choose a font from the dropdown, this font will be enabled only if you check the option above the dropdown called "Enable Google Fonts". 
 
 
 
