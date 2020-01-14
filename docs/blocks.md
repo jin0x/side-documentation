@@ -129,19 +129,42 @@ This block consists of 1 main field and another 3 sub fields:
 
 Please note that the numbering comes dynamically so you don't have to add those number items manually. Also the numbers are inline SVGs which means that once we change the primary branding color, these numbers change as well.
  
- 
 
-
-#### Agent Details Bar
+#### Listing Cards Grid
 ------------------------
 
+<iframe src="https://share.getcloudapp.com/04ugyXEO?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
-#### Agent Details Bar
+This block doesn't include any options as it take listings from HJ pocket listings
+
+
+#### Map
 ------------------------
 
+This block is used to show the Map block shown below:
 
-#### Agent Details Bar
+<iframe src="https://share.getcloudapp.com/P8uYN4ye?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+This block contains only one field and this is a map address field that utilizes Google maps API behind the scenes.
+
+
+#### Media Element
 ------------------------
+
+This block is used to show the Media Element shown below:
+
+<iframe src="https://share.getcloudapp.com/z8unl0GQ?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+The options that this block includes are the following ones:
+
+* Header text - the header title of the block
+* Body text - the body text of the block
+* Image - the image of the block 
+* CTA - the button of the block which includes a link, text and a link target.
+* Button Style - This is a dropdown field which contains 4 different options (solid primary, solid secondary, stroke black and stroke white) where stroke white is the default value
+* Reverse - This is a toggle field which allows the media element to reverse the order of text and image.
+
 
 
 #### Agent Details Bar
