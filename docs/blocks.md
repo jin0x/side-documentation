@@ -206,18 +206,34 @@ This block contains the following custom fields:
 Please note that the numbers animation comes programmatically and the numbers are starting to animate when the block is in viewport.  
 
 
-#### Agent Details Bar
+#### Testimonials Large
 ------------------------
-This block is used to show the Press block shown below:
+This block is used to show the testimonials large block shown below:
 
+<iframe src="https://share.getcloudapp.com/p9u5Lqjn?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
-#### Agent Details Bar
+This block only contains an "Items" field which is a relationship field that queries the testimonials CPT and you can add as many testimonials as you want.
+If only one testimonial is added, then the carousel functionality is disabled.
+
+#### Testimonials Small
 ------------------------
-This block is used to show the Press block shown below:
+This block is used to show the testimonials small block shown below:
+
+<iframe src="https://share.getcloudapp.com/o0uQ9nDY?embed=true" width="575" height="150" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
+This block only contains an "Items" field which is a relationship field that queries the testimonials CPT and you can add as many testimonials as you want.
+If only one testimonial is added, then the carousel functionality is disabled.
 
-#### Agent Details Bar
+
+#### Testimonials Compact
 ------------------------
-This block is used to show the Press block shown below:
+This block is used to show the testimonials compact block shown below:
+
+
+<iframe src="https://share.getcloudapp.com/yAuLA524?embed=true" width="575" height="150" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+This block only contains an "Items" field which is a relationship field that queries the testimonials CPT and you can add as many testimonials as you want.
+If only one testimonial is added, then the carousel functionality is disabled.
 
