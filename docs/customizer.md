@@ -68,8 +68,12 @@ The `Company Address` and `Company Map Address` are not used anywhere for now bu
 ### Menus
 -------------------
 
-Here you can set your different menus that are used across the site. Currently we use 5 different menus. 
-One is used in the header and it is named `Primary Menu` and there are 4 others that are used at the 4 different columns in the footer of the site named `Footer Menu 1-4`
+Here you can set your different menus that are used across the site. Currently we use 4 different menus: 
+
+* `Primary Menu` is used in the primary header section.
+* `Side nav` is used in the side nav section when you press the hanburger menu and the side nav menu expands.
+* `Footer Socket` is used in the footer section between copyrights and social icons. 
+* `Digital Listing Presentation Menu` is used by Side Landing Page Generator.
 
 From this section you can create your different menus and you can also configure the menus from `Appearance -> Menus` as well.
 
