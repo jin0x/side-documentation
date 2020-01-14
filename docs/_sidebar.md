@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 * [Main page](/)
-* [General Options (Customizer)](customizer.md)
-* [Homepage](homepage.md)
+* [Customizer Options](customizer.md)
+* [Theme Settings](themesettings.md)
 * [Past Sales](pastsales.md)
 * [Pocket Listings](pocketlistings.md)
 * [Active Listings](activelistings.md)
