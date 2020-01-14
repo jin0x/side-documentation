@@ -102,9 +102,21 @@ If you are not planning to change the careers page, then it is recommended to le
 --------------------
 
 Widgets are sections across the site where you can add different Widgets to make the site more dynamic.
-Currently we use 1 Widgetized area which acts as a container to add the 4 different menu items in the footer. 
+Currently we use 6 Widgetized area which acts across the site:
+
+* Past Sales Top Section 
+* Past Sales Bottom Section 
+* Past Listings Details Bottom Section 
+* Blog Top Section 
+* Blog Bottom Section 
+* IDX Horizontal Search
+
+
+The 5 first widgets are used on all these individual pages where we can add our re-usable blocks. The 6th widgetized area is owned by Side.
+More about re-usable blocks at the Blocks section.
 
 Please note that you can add pretty much everything there, from static text, images, menu items and other custom widgets.
+Also please note that since we used re-usable widgets inside our widgetized areas, we can only manage them through `Appearance -> Widgets` and not through the Customizer options.
 
 Here you can find some useful docs on how to manage your WordPress Widgets:
 
